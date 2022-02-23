@@ -20,8 +20,8 @@
 }
 
 .imgPreview{
-  width:600px;
-  height: 500px;
+  width:300px;
+  height: 250px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -71,3 +71,19 @@ input{
   border-radius: 10px;
   border-color: darkgray;
 }
+.btn{
+  margin: auto;
+  margin-top: 10px;
+  display: flex;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  border-radius: 25px;
+  border: none;
+  background:burlywood;
+}
+  
